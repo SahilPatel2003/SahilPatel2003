@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sahil Mandani</h1>
 <img src="https://badges.pufler.dev/visits/SahilPatel2003/SahilPatel2003">
 <img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
+
+<h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
+  
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
 <code><img src="https://github.com/pritmanvar/Pritmanvar/blob/main/tools/c.png?raw=true" alt="c" width="40" height="40"/></code> 
