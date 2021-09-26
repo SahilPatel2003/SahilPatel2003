@@ -1,4 +1,4 @@
-<h1 align="left"> < Hello Everyone😊, I'm Sahil Mandani<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
+<h1 align="left"> < Hello Everyone👨‍💻, I'm Sahil Mandani<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">/></h2>
 <img src="https://badges.pufler.dev/visits/SahilPatel2003/SahilPatel2003">
 <img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
 
