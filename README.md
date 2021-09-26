@@ -2,7 +2,7 @@
 <img src="https://badges.pufler.dev/visits/SahilPatel2003/SahilPatel2003">
 <img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
 
-<h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
+<h3 align = "left">🟠Pursuing Computer Engineering - 2nd Year🎓.I am always ready to learn about new things😇<br><br>
   
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
