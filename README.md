@@ -3,13 +3,17 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 2nd Year🎓.I am always ready to learn about new things😇.<br><br>
+--> Web Developer. <br> --> DSA Enthusiast <br></h3>
   
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
-<code><img src="https://github.com/pritmanvar/Pritmanvar/blob/main/tools/c.png?raw=true" alt="c" width="40" height="40"/></code> 
+<code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c.png?raw=true" alt="c" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/c++.png?raw=true" alt="cplusplus" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/canva.png?raw=true" alt="canva" width="40" height="40"/></code> 
 <code><img src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/git.png?raw=true" alt="git" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/HTML.png?raw=true" alt="HTML" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/CSS.png?raw=true" alt="CSS" width="40" height="40"/></code>
+<code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/JS.png?raw=true" alt="JS" width="40" height="40"/></code>
 <code><img height="40" width="40" src="https://github.com/pritmanvar/pritmanvar/blob/main/tools/github.png?raw=true" alt="github" width="40" height="40"/></code></p>
 <h2></h2>
 <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
