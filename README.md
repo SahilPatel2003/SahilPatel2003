@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="450" src="https://github.com/pritmanvar/pritmanvar/blob/main/gif/code.gif?raw=true">
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 2nd Year🎓.I am always ready to learn about new things😇.<br><br>
---> Web Developer. <br> --> DSA Enthusiast <br></h3>
+--> Web Developer. <br> --> DSA Troubleshooter <br></h3>
   
 <h3 align="left">🔴Languages and Tools:</h3>
 <p align="left"> 
