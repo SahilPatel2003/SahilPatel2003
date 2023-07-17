@@ -23,12 +23,7 @@
 <a href="https://github.com/SahilPatel2003" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sahil_304" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
 </p>
-  
-  🔴 I'm currently diving deeper into:
-<br />&emsp;🚀 Problem Solving by honing DSA skills
-  <br />&emsp;🚀 Competitive Programming 
-  
-<br>
+
 <h3 align="left"> 🔵 Github Status  <h3> 
 
 <div align="center">
