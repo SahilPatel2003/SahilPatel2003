@@ -15,7 +15,7 @@
 <p align = "left"><h3 align="left">🟢YOU CAN FIND ME HERE🤩👇 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></p>  </h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sahil-mandani-1st/" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/sahil-mandani-1st/" target="_blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="50" /></a>
 <a href="https://github.com/SahilPatel2003" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sahil_304" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
 </p>
