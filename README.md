@@ -32,6 +32,8 @@
 </div>
   <h2></h2>
 
- ![github graph](https://activity-graph.herokuapp.com/graph?username=SahilPatel2003&theme=react-dark&hide_border=true)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=Drishty06&theme=react-dark&hide_border=true) -->
 <br>
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
