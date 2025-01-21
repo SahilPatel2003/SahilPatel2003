@@ -1,11 +1,8 @@
-<h1 align="center"> 
-  Hello Everyone 👨‍💻, I'm Sahil Mandani 
-  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
-</h1>
-
+<h1 align="center">Hi 👋, I'm Sahil Mandani</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SahilPatel2003&style=flat-square&color=blue" alt="profile views">
 </p>
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="width: 60%;">
@@ -19,9 +16,6 @@
       <li>📚 Enthusiastic about <b>Open Source</b> and continuously contributing to the developer community</li>
       <li>⚡ In my free time, I enjoy coding, exploring new tools, and reading about tech innovations</li>
     </ul>
-  </div>
-  <div style="width: 35%; text-align: right;">
-   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
 </div>
 
