@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/pritmanvar/pritmanvar/3d97b6f2b52c980dcf2b373fe6fcc8afbdd8c5ce/gif/Coding%20_Monochromatic.svg">
 
 - 🖥️ **Full Stack Developer** at **Logicrays Technologies** (Currently working)
-- 🎯 Former **Software Engineer** at **RapidOps Inc.** (15+ months experience)
+- 🎯 Former **Software Engineer** at **RapidOps Inc.** 
 - 🎓 **Computer Engineering Graduate** from Vishwakarma Government Engineering College
 - 💡 Passionate about **scalable web applications** and **AI-powered integrations**
 - 🏆 **Winner** of IDE Code Sprint 1.0 (1st place among 3000+ students)
