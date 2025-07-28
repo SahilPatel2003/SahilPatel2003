@@ -120,6 +120,6 @@
 </div>
 
 <div align="center">
-  <h3>💭 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+  <h3>🤖 AI is a powerful tool, but the craftsman's 🧠 skill determines the masterpiece."</h3>
   <p>⭐️ From <a href="https://github.com/SahilPatel2003">SahilPatel2003</a> with ❤️</p>
 </div>
