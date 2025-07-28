@@ -18,7 +18,7 @@
 - 🎯 Former **Software Engineer** at **RapidOps Inc.** 
 - 🎓 **Computer Engineering Graduate** from Vishwakarma Government Engineering College
 - 💡 Passionate about **scalable web applications** and **AI-powered integrations**
-- 🏆 **Winner** of IDE Code Sprint 1.0 (1st place among 3000+ students)
+- 🏆 **Winner** of IDE Code Sprint 1.0 (1st place among 8000+ students)
 - 🌐 Specialized in **Next.js, React, NestJS** with **microservices architecture**
 - 📊 Achieved **80-90% performance improvements** in enterprise applications
 - ⚡ Love exploring **cloud infrastructure**, **distributed systems**, and **database optimization**
